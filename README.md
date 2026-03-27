@@ -30,7 +30,7 @@ This project is set up for quick building in **Visual Studio Code**.
 
 ### Requirements:
 * An installed C compiler (e.g., GCC / MinGW).
-* A configured `tasks.json` and `lounch.json` file in the `.vscode` folder of your workspace.
+* A configured `tasks.json` and `launch.json` file in the `.vscode` folder of your workspace.
 
 ### How to build the project:
 1. Open the project folder in VS Code.
