@@ -20,6 +20,7 @@ The board fields are mapped to numbers from `1` to `9` on your keyboard. Each ke
  4 | 5 | 6 
 -----------
  7 | 8 | 9 
+-----------
 
 During your turn, simply type the corresponding number and press `Enter`. Typing `0` exits the game.
 
